@@ -1,6 +1,8 @@
 # ReactSearchPaging
 
-#use create_react command
+#use npm create-react-app command
+#follow below command
+https://www.npmjs.com/package/create-react-app
 
 #npm install
 
